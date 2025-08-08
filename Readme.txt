@@ -8,3 +8,6 @@ How to Run:
 Make sure pygame is installed
 Make sure all image files are in the same folder as the game 
 Run Scuba Adventure.py 
+
+All game graphics were personally created by me for this project.
+These assets are not licensed for reuse, redistribution, or commercial use. Please respect this and do not use them in your own projects without explicit permission.
